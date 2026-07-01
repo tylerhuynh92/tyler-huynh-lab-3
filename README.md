@@ -200,3 +200,7 @@ Students must submit:
 4. A working GitHub Pages link for the deployed movie portal
 5. Evidence that the same responsive design approach was applied to the personalized movie portal
 6. All screenshots must be decorated in the [README.md](README.md) file.
+
+## Github Page Link
+
+https://tylerhuynh92.github.io/tyler-huynh-lab-3/
